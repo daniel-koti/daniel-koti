@@ -1,13 +1,12 @@
 # Daniel Moniz 👋
-[![Twitter Badge](https://twitter.com/danielkoti_) 
-[![Linkedin Badge](https://www.linkedin.com/in/daniel-moniz-47a481187)
+
+<a href="https://www.linkedin.com/in/daniel-moniz-47a481187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:danielmoniz50@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danielmoniz50@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 Sobre mim </h3>
-
-
+<h3>👨🏾‍💻•Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e soluções para desenvolvimento de softwares.
 
@@ -21,8 +20,6 @@
 
 <h3>🛠 Tech Stack</h3>
 
-
-
 - 💻 &nbsp; Node JS |
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |
@@ -35,20 +32,11 @@
 
 -->
 
-
-
 <h3>🛠 To Learn </h3>
 
 - 🔧 &nbsp; React Native | Docker🐳 |  PostgreSQL |
 
 <hr>
-
-
-
-<br/><br/>
-
-
-<br/>
 
 <br/>
 
