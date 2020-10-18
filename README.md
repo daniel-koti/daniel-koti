@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3>👨🏾‍💻•Sobre mim </h3>
+<h3>👨🏾‍💻Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e soluções para desenvolvimento de softwares.
 
@@ -21,7 +21,7 @@
 
 - 💻 &nbsp; Node JS |
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap |
 
 <!--
 
