@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3>👨🏾‍💻Sobre mim </h3>
+<h2>👨🏾‍💻 Sobre mim </h2>
 
 - 🤔 &nbsp; Explorando novas tecnologias e soluções para desenvolvimento de softwares.
 
