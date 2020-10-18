@@ -1,5 +1,5 @@
 # Daniel Moniz 🚀
-<a href="https://www.linkedin.com/in/daniel-moniz-47a481187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DanielMoniz%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/daniel-moniz-47a481187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DanielMoniz%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:danielmoniz50@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danielmoniz50@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
 
 
