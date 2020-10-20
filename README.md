@@ -11,7 +11,7 @@
 
 - 🎓 &nbsp; Estudante de Engenharia Informática.
 
-- 🌱 &nbsp; Aprendendo sobre UI/UX - User Interface Design |React JS.
+- 🌱 &nbsp; Aprendendo sobre UI/UX - User Interface Design | React JS.
 
 - ✍️ &nbsp; Perseguindo o desenvolvimento Web como hobbies / Rocketseat Fan.
 
