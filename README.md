@@ -11,7 +11,7 @@
 
 - 🎓 &nbsp; Estudante de Engenharia Informática.
 
-- 🌱 &nbsp; Aprendendo sobre UI/UX - User Interface Design | TypeScript | React JS.
+- 🌱 &nbsp; Aprendendo sobre UI/UX - User Interface Design |React JS.
 
 - ✍️ &nbsp; Perseguindo o desenvolvimento Web como hobbies / Rocketseat Fan.
 
@@ -33,6 +33,6 @@
 
 <h3>🛠 To Learn </h3>
 
-- 🔧 &nbsp; React Native | Docker🐳 |  PostgreSQL |
+- 🔧 &nbsp; React Native | Docker🐳 |  PostgreSQL | TypeScript |
 
 <hr>
