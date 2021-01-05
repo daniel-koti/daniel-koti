@@ -13,19 +13,17 @@
 
 - 🌱 &nbsp; Aprendendo sobre UI/UX - User Interface Design | React JS.
 
-- ✍️ &nbsp; Perseguindo o desenvolvimento Web como hobbies / Rocketseat Fan.
-
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Node JS |
+- 💻 &nbsp; Node JS | Typescript |
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap |
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | React JS
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB |
+- 🛢 &nbsp; MySQL | PostgreSQL |
 
 - 🖥 &nbsp; | Photoshop |
 
@@ -33,6 +31,6 @@
 
 <h3>🛠 To Learn </h3>
 
-- 🔧 &nbsp; React Native | Docker🐳 |  PostgreSQL | TypeScript |
+- 🔧 &nbsp; React Native | Docker🐳 | 
 
 <hr>
