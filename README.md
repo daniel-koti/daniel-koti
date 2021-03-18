@@ -7,12 +7,7 @@
 
 <h2>👨🏾‍💻 Sobre mim </h2>
 
-- 🤔 &nbsp; Explorando novas tecnologias e soluções para desenvolvimento de softwares.
-
-- 🎓 &nbsp; Estudante de Engenharia Informática.
-
-- 🌱 &nbsp; Aprendendo sobre UI/UX - User Interface Design | React JS.
-
+- 🤔 &nbsp; The importance of programming is not only related to using tools to solve problems, but also connecting people with the same goal and getting to know new cultures. 🚀
 
 
 <h3>🛠 Tech Stack</h3>
