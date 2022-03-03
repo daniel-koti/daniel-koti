@@ -1,4 +1,4 @@
-# Daniel Moniz 
+# Daniel Koti 
 
 Desenvolvedor Frontend em @Okayula-tech.
 
