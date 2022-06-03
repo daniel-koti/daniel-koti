@@ -10,6 +10,4 @@ O meu aprendizado é baseado em criar projectos e impactar a vida das pessoas po
 
 "Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum que talentosos fracassados. Genialidade não supera. Gênios não reconhecidos é praticamente um clichê. Educação não supera. Porque o mundo é cheio de tolos educados. Persistência e determinação, apenas, são poderosas."
 
-Bora codar 🚀
-
 
