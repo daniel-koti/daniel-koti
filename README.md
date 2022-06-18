@@ -85,7 +85,6 @@ Lately i've been studying front-end and mobile development technologies. I'm Fas
 </p>
 
 ---
-</br>
 
 ### Phrases that I say to myself
 
