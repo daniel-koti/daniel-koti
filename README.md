@@ -32,16 +32,6 @@ Lately i've been studying front-end and mobile development technologies. I'm Fas
 
 ### :computer: Technical Skills
 
-
-#### 🎨 ✍🏼 Designing: <br/>
-
-<a href="#">
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</a>
-
 ####  :speech_balloon: Languages
 
 <a href="#">
