@@ -1,4 +1,4 @@
-# Hi there! I'm Daniel! 👋 
+# Hi there, I'm Daniel 👋 
 
 <img
 	src="https://raw.githubusercontent.com/gist/daniel-koti/ce1881620031b660ff01933741bb5736/raw/252617d9d763a3a14db9677c22f266f8397cbc66/githubcard.svg"
