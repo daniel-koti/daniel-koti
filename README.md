@@ -11,6 +11,4 @@ Enthusiast of the best web development technologies and design lover.
 
 I believe that great design goes hand in hand with flawless functionality. From creating seamless user journeys to optimizing performance, I pour creativity into every line of code to bring ideas to life.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
-
 
