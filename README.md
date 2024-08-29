@@ -9,6 +9,5 @@ Front-end Enginner and User Interface Designer
 
 Enthusiast of the best development technologies and design lover.
 
-I believe that great design goes hand in hand with flawless functionality. From creating seamless user journeys to optimizing performance, I pour creativity into every line of code to bring ideas to life.
 
 
